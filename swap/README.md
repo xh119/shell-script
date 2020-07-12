@@ -11,7 +11,7 @@ Linux 一键添加/删除Swap虚拟内存
 #### 1. 下载脚本
 
 ```
-wget https://raw.githubusercontent.com/rfw/shell-script/master/swap/swap.sh && chmod +x swap.sh
+wget https://raw.githubusercontent.com/xh119/shell-script/master/swap/swap.sh && chmod +x swap.sh
 
 
 ```
